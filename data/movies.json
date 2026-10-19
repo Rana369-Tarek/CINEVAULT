@@ -1,0 +1,949 @@
+[
+  {
+    "title": "A Quiet Place Part II",
+    "genre": "Horror, Thriller",
+    "year": 2020,
+    "rating": 7.2,
+    "image": "assets/posters/A Quiet Place 2.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "A Quiet Place",
+    "genre": "Horror, Thriller",
+    "year": 2018,
+    "rating": 7.5,
+    "image": "assets/posters/A Quiet Place.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "All of Us Are Dead",
+    "genre": "Horror, Action, Survival",
+    "year": 2022,
+    "rating": 7.5,
+    "image": "assets/posters/All of Us Are Dead.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Annabelle",
+    "genre": "Horror, Mystery",
+    "year": 2014,
+    "rating": 5.4,
+    "image": "assets/posters/Annabelle.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Arrival",
+    "genre": "Sci-Fi, Mystery, Drama",
+    "year": 2016,
+    "rating": 7.9,
+    "image": "assets/posters/Arrival.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Attack on Titan",
+    "genre": "Anime, Action, Fantasy",
+    "year": 2013,
+    "rating": 9.1,
+    "image": "assets/posters/Attack on Titan.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "genre": "Action, Sci-Fi, Superhero",
+    "year": 2018,
+    "rating": 8.4,
+    "image": "assets/posters/Avengers Infinity War.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Better Call Saul",
+    "genre": "Crime, Drama",
+    "year": 2015,
+    "rating": 8.9,
+    "image": "assets/posters/Better Call Saul.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Black Clover: Sword of the Wizard King",
+    "genre": "Anime, Action, Fantasy",
+    "year": 2023,
+    "rating": 7.4,
+    "image": "assets/posters/Black Clover sword of the wizard king.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Black Clover",
+    "genre": "Anime, Action, Fantasy",
+    "year": 2017,
+    "rating": 8.2,
+    "image": "assets/posters/Black Clover.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Blade Runner 2049",
+    "genre": "Sci-Fi, Thriller, Drama",
+    "year": 2017,
+    "rating": 8.0,
+    "image": "assets/posters/Blade Runner 2049.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Bleach",
+    "genre": "Anime, Action, Fantasy",
+    "year": 2004,
+    "rating": 8.2,
+    "image": "assets/posters/Bleach.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Blue Exorcist",
+    "genre": "Anime, Action, Supernatural",
+    "year": 2011,
+    "rating": 7.4,
+    "image": "assets/posters/Blue Exorcist.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Breaking Bad",
+    "genre": "Crime, Drama, Thriller",
+    "year": 2008,
+    "rating": 9.5,
+    "image": "assets/posters/Breaking Bad.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Bungo Stray Dogs",
+    "genre": "Anime, Action, Mystery",
+    "year": 2016,
+    "rating": 7.8,
+    "image": "assets/posters/Bungo Stray Dogs.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Code Geass: Lelouch of the Rebellion",
+    "genre": "Anime, Sci-Fi, Thriller",
+    "year": 2006,
+    "rating": 8.7,
+    "image": "assets/posters/Code Geass- Lelouch of the Rebellion.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Detective Conan",
+    "genre": "Anime, Mystery, Crime",
+    "year": 1996,
+    "rating": 8.5,
+    "image": "assets/posters/Conan.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Death Note",
+    "genre": "Anime, Mystery, Thriller",
+    "year": 2006,
+    "rating": 8.9,
+    "image": "assets/posters/Death Note.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "genre": "Anime, Action, Fantasy",
+    "year": 2019,
+    "rating": 8.6,
+    "image": "assets/posters/Demon Slayer- Kimetsu no Yaiba.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Divergent",
+    "genre": "Sci-Fi, Action, Adventure",
+    "year": 2014,
+    "rating": 6.6,
+    "image": "assets/posters/Divergent.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Dora and the Lost City of Gold",
+    "genre": "Adventure, Comedy, Family",
+    "year": 2019,
+    "rating": 6.1,
+    "image": "assets/posters/Dora.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Dr. Stone",
+    "genre": "Anime, Sci-Fi, Adventure",
+    "year": 2019,
+    "rating": 8.1,
+    "image": "assets/posters/Dr.Stone.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Dragon Ball",
+    "genre": "Anime, Action, Adventure",
+    "year": 1986,
+    "rating": 8.5,
+    "image": "assets/posters/Dragon Ball.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Dune",
+    "genre": "Sci-Fi, Adventure, Drama",
+    "year": 2021,
+    "rating": 8.0,
+    "image": "assets/posters/Dune.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Edge of Tomorrow",
+    "genre": "Sci-Fi, Action",
+    "year": 2014,
+    "rating": 7.9,
+    "image": "assets/posters/Edge of Tomorrow.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Escape Room",
+    "genre": "Thriller, Mystery, Horror",
+    "year": 2019,
+    "rating": 6.4,
+    "image": "assets/posters/Escape Room.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Extraction 2",
+    "genre": "Action, Thriller",
+    "year": 2023,
+    "rating": 7.0,
+    "image": "assets/posters/Extraction 2.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Extraction",
+    "genre": "Action, Thriller",
+    "year": 2020,
+    "rating": 6.8,
+    "image": "assets/posters/Extraction.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "genre": "Anime, Action, Fantasy",
+    "year": 2009,
+    "rating": 9.1,
+    "image": "assets/posters/Fullmetal Alchemist- Brotherhood.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Game of Thrones",
+    "genre": "Fantasy, Drama, Adventure",
+    "year": 2011,
+    "rating": 9.2,
+    "image": "assets/posters/Game of Thrones.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Gintama",
+    "genre": "Anime, Comedy, Action",
+    "year": 2006,
+    "rating": 8.7,
+    "image": "assets/posters/gintama.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Gladiator",
+    "genre": "Action, Drama, History",
+    "year": 2000,
+    "rating": 8.5,
+    "image": "assets/posters/Gladiator.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Glass Onion: A Knives Out Mystery",
+    "genre": "Mystery, Crime, Comedy",
+    "year": 2022,
+    "rating": 7.1,
+    "image": "assets/posters/Glass Onion.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Gravity",
+    "genre": "Sci-Fi, Thriller, Drama",
+    "year": 2013,
+    "rating": 7.7,
+    "image": "assets/posters/Gravity.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Harry Potter and the Chamber of Secrets",
+    "genre": "Fantasy, Adventure",
+    "year": 2002,
+    "rating": 7.4,
+    "image": "assets/posters/Harry Potter and the Chamber of Secrets.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "genre": "Fantasy, Adventure, Mystery",
+    "year": 2004,
+    "rating": 7.9,
+    "image": "assets/posters/Harry Potter and the Prisoner of Azkaban.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "genre": "Fantasy, Adventure",
+    "year": 2001,
+    "rating": 7.6,
+    "image": "assets/posters/Harry Potter and the Sorcerer’s Stone.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "How to Train Your Dragon 2",
+    "genre": "Animation, Adventure, Fantasy",
+    "year": 2014,
+    "rating": 7.8,
+    "image": "assets/posters/How to Train Your Dragon 2.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "How to Train Your Dragon: The Hidden World",
+    "genre": "Animation, Adventure, Fantasy",
+    "year": 2019,
+    "rating": 7.4,
+    "image": "assets/posters/How to Train Your Dragon 3.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "How to Train Your Dragon",
+    "genre": "Animation, Adventure, Fantasy",
+    "year": 2010,
+    "rating": 8.1,
+    "image": "assets/posters/How to Train Your Dragon.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Hunter x Hunter",
+    "genre": "Anime, Action, Adventure",
+    "year": 2011,
+    "rating": 9.0,
+    "image": "assets/posters/Hunter x Hunter.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Ice Age",
+    "genre": "Animation, Comedy, Adventure",
+    "year": 2002,
+    "rating": 7.5,
+    "image": "assets/posters/Ice Age.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Inception",
+    "genre": "Sci-Fi, Thriller, Action",
+    "year": 2010,
+    "rating": 8.8,
+    "image": "assets/posters/Inception.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Insidious",
+    "genre": "Horror, Mystery",
+    "year": 2010,
+    "rating": 6.8,
+    "image": "assets/posters/insidious.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Interstellar",
+    "genre": "Sci-Fi, Drama, Adventure",
+    "year": 2014,
+    "rating": 8.7,
+    "image": "assets/posters/Interstellar.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "It",
+    "genre": "Horror, Thriller",
+    "year": 2017,
+    "rating": 7.3,
+    "image": "assets/posters/IT.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "John Wick",
+    "genre": "Action, Thriller, Crime",
+    "year": 2014,
+    "rating": 7.4,
+    "image": "assets/posters/John Wick 1.jpg",
+    "type": "movie",
+    "alternateImages": [
+      "assets/posters/John Wick.jpg"
+    ]
+  },
+  {
+    "title": "John Wick: Chapter 2",
+    "genre": "Action, Thriller, Crime",
+    "year": 2017,
+    "rating": 7.5,
+    "image": "assets/posters/John Wick 2.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "John Wick: Chapter 3 – Parabellum",
+    "genre": "Action, Thriller, Crime",
+    "year": 2019,
+    "rating": 7.4,
+    "image": "assets/posters/John Wick 3.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "John Wick: Chapter 4",
+    "genre": "Action, Thriller, Crime",
+    "year": 2023,
+    "rating": 7.7,
+    "image": "assets/posters/John Wick 4.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Jujutsu Kaisen",
+    "genre": "Anime, Action, Supernatural",
+    "year": 2020,
+    "rating": 8.6,
+    "image": "assets/posters/Jujutsu Kaisen.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Jurassic World: Fallen Kingdom",
+    "genre": "Sci-Fi, Adventure, Action",
+    "year": 2018,
+    "rating": 6.1,
+    "image": "assets/posters/Jurassic World 2.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Jurassic World",
+    "genre": "Sci-Fi, Adventure, Action",
+    "year": 2015,
+    "rating": 6.9,
+    "image": "assets/posters/Jurassic World.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Kingdom of Heaven",
+    "genre": "Action, Drama, History",
+    "year": 2005,
+    "rating": 7.3,
+    "image": "assets/posters/Kingdom of Heaven.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Knives Out",
+    "genre": "Mystery, Crime, Comedy",
+    "year": 2019,
+    "rating": 7.9,
+    "image": "assets/posters/Knives Out.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Emperor's New Groove",
+    "genre": "Animation, Comedy, Adventure",
+    "year": 2000,
+    "rating": 7.4,
+    "image": "assets/posters/Kuzco.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Logan",
+    "genre": "Action, Sci-Fi, Drama",
+    "year": 2017,
+    "rating": 8.1,
+    "image": "assets/posters/Logen.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Mad Max: Fury Road",
+    "genre": "Action, Sci-Fi, Adventure",
+    "year": 2015,
+    "rating": 8.1,
+    "image": "assets/posters/Mad Max Fury Road.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Madagascar",
+    "genre": "Animation, Comedy, Adventure",
+    "year": 2005,
+    "rating": 6.9,
+    "image": "assets/posters/Madagascar.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Mashle: Magic and Muscles",
+    "genre": "Anime, Action, Comedy",
+    "year": 2023,
+    "rating": 7.6,
+    "image": "assets/posters/Mashle.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Mission: Impossible – Fallout",
+    "genre": "Action, Thriller, Adventure",
+    "year": 2018,
+    "rating": 7.7,
+    "image": "assets/posters/Mission Impossible - Fallout.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Monsters, Inc.",
+    "genre": "Animation, Comedy, Family",
+    "year": 2001,
+    "rating": 8.1,
+    "image": "assets/posters/Monstres, Inc.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Mouse",
+    "genre": "Korean, Crime, Mystery, Thriller",
+    "year": 2021,
+    "rating": 8.6,
+    "image": "assets/posters/Mouse.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Mr. Bean",
+    "genre": "Comedy",
+    "year": 1990,
+    "rating": 8.6,
+    "image": "assets/posters/Mr Bean.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Mulan",
+    "genre": "Animation, Action, Adventure",
+    "year": 1998,
+    "rating": 7.6,
+    "image": "assets/posters/Mulan.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "My Hero Academia",
+    "genre": "Anime, Action, Superhero",
+    "year": 2016,
+    "rating": 8.2,
+    "image": "assets/posters/My Hero Academia.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Naruto",
+    "genre": "Anime, Action, Adventure",
+    "year": 2002,
+    "rating": 8.4,
+    "image": "assets/posters/Naruto.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Finding Nemo",
+    "genre": "Animation, Adventure, Family",
+    "year": 2003,
+    "rating": 8.2,
+    "image": "assets/posters/Nemo.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Nobody",
+    "genre": "Action, Thriller, Crime",
+    "year": 2021,
+    "rating": 7.4,
+    "image": "assets/posters/Nobody.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Nun II",
+    "genre": "Horror, Mystery",
+    "year": 2023,
+    "rating": 5.6,
+    "image": "assets/posters/NUN 2.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "One Piece",
+    "genre": "Anime, Action, Adventure",
+    "year": 1999,
+    "rating": 9.0,
+    "image": "assets/posters/One Piece.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Orphan",
+    "genre": "Horror, Thriller, Mystery",
+    "year": 2009,
+    "rating": 7.0,
+    "image": "assets/posters/Orphan.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Peaky Blinders",
+    "genre": "Crime, Drama, History",
+    "year": 2013,
+    "rating": 8.7,
+    "image": "assets/posters/Peaky Blinders.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Penguins of Madagascar",
+    "genre": "Animation, Comedy, Adventure",
+    "year": 2014,
+    "rating": 6.6,
+    "image": "assets/posters/Penguins of Madagascar.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Prisoners",
+    "genre": "Crime, Mystery, Thriller",
+    "year": 2013,
+    "rating": 8.2,
+    "image": "assets/posters/Prisoners.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Ron Kamonohashi's Forbidden Deductions",
+    "genre": "Anime, Mystery, Crime",
+    "year": 2023,
+    "rating": 7.3,
+    "image": "assets/posters/Ron Kamonohashi Deranged Detective.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Sakamoto Days",
+    "genre": "Anime, Action, Comedy",
+    "year": 2025,
+    "rating": 7.7,
+    "image": "assets/posters/Sakamoto.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Saw II",
+    "genre": "Horror, Thriller, Mystery",
+    "year": 2005,
+    "rating": 6.6,
+    "image": "assets/posters/Saw 2.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Se7en",
+    "genre": "Crime, Mystery, Thriller",
+    "year": 1995,
+    "rating": 8.6,
+    "image": "assets/posters/Se7en.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Sherlock Holmes",
+    "genre": "Mystery, Action, Adventure",
+    "year": 2009,
+    "rating": 7.6,
+    "image": "assets/posters/Sherlock Holmes.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Shutter Island",
+    "genre": "Mystery, Thriller, Drama",
+    "year": 2010,
+    "rating": 8.2,
+    "image": "assets/posters/Shutter Island.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Sicario",
+    "genre": "Crime, Thriller, Action",
+    "year": 2015,
+    "rating": 7.7,
+    "image": "assets/posters/Sicario.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Solo Leveling",
+    "genre": "Anime, Action, Fantasy",
+    "year": 2024,
+    "rating": 8.5,
+    "image": "assets/posters/Solo Leveling.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "genre": "Animation, Action, Superhero",
+    "year": 2018,
+    "rating": 8.4,
+    "image": "assets/posters/Spider-Man -Into the Spider-Verse.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "SpongeBob SquarePants",
+    "genre": "Animation, Comedy, Family",
+    "year": 1999,
+    "rating": 8.2,
+    "image": "assets/posters/SpondeBob Squarepants.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Squid Game",
+    "genre": "Korean, Thriller, Survival",
+    "year": 2021,
+    "rating": 8.0,
+    "image": "assets/posters/Squid Game.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Stranger Things",
+    "genre": "Sci-Fi, Horror, Mystery",
+    "year": 2016,
+    "rating": 8.7,
+    "image": "assets/posters/Stranger Things.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Tenet",
+    "genre": "Sci-Fi, Action, Thriller",
+    "year": 2020,
+    "rating": 7.3,
+    "image": "assets/posters/Tenet.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Amazing Spider-Man",
+    "genre": "Action, Sci-Fi, Superhero",
+    "year": 2012,
+    "rating": 6.9,
+    "image": "assets/posters/the amazing spiderman.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Avengers: Endgame",
+    "genre": "Action, Sci-Fi, Superhero",
+    "year": 2019,
+    "rating": 8.4,
+    "image": "assets/posters/The Avengers - Endgame.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Avengers",
+    "genre": "Action, Sci-Fi, Superhero",
+    "year": 2012,
+    "rating": 8.0,
+    "image": "assets/posters/The Avengers.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Boys",
+    "genre": "Action, Superhero, Crime",
+    "year": 2019,
+    "rating": 8.7,
+    "image": "assets/posters/The Boys.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "The Conjuring 2",
+    "genre": "Horror, Mystery",
+    "year": 2016,
+    "rating": 7.3,
+    "image": "assets/posters/The Conjuring 2.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Conjuring: Last Rites",
+    "genre": "Horror, Mystery",
+    "year": 2025,
+    "rating": 6.2,
+    "image": "assets/posters/The Conjuring 4.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Conjuring",
+    "genre": "Horror, Mystery",
+    "year": 2013,
+    "rating": 7.5,
+    "image": "assets/posters/The Conjuring.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Dark Knight",
+    "genre": "Action, Crime, Drama",
+    "year": 2008,
+    "rating": 9.0,
+    "image": "assets/posters/The Dark Knight.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Equalizer 2",
+    "genre": "Action, Crime, Thriller",
+    "year": 2018,
+    "rating": 6.7,
+    "image": "assets/posters/The Equalizer 2.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Equalizer 3",
+    "genre": "Action, Crime, Thriller",
+    "year": 2023,
+    "rating": 6.8,
+    "image": "assets/posters/The Equalizer 3.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Equalizer",
+    "genre": "Action, Crime, Thriller",
+    "year": 2014,
+    "rating": 7.2,
+    "image": "assets/posters/The Equalizer.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Hunger Games",
+    "genre": "Sci-Fi, Action, Adventure",
+    "year": 2012,
+    "rating": 7.2,
+    "image": "assets/posters/The Hunger Games.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "genre": "Fantasy, Adventure, Action",
+    "year": 2001,
+    "rating": 8.9,
+    "image": "assets/posters/The Lord of the Rings The Fellowship of the Ring.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "genre": "Fantasy, Adventure, Action",
+    "year": 2003,
+    "rating": 9.0,
+    "image": "assets/posters/The Lord of the Rings The Return of the King.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "genre": "Fantasy, Adventure, Action",
+    "year": 2002,
+    "rating": 8.8,
+    "image": "assets/posters/The Lord of the Rings The Two Towers.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Martian",
+    "genre": "Sci-Fi, Adventure, Drama",
+    "year": 2015,
+    "rating": 8.0,
+    "image": "assets/posters/The Martian.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Matrix",
+    "genre": "Sci-Fi, Action",
+    "year": 1999,
+    "rating": 8.7,
+    "image": "assets/posters/The Matrix.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Meg 2: The Trench",
+    "genre": "Action, Sci-Fi, Thriller",
+    "year": 2023,
+    "rating": 5.0,
+    "image": "assets/posters/The Meg 2.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Meg",
+    "genre": "Action, Sci-Fi, Thriller",
+    "year": 2018,
+    "rating": 5.7,
+    "image": "assets/posters/The Meg.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Raid: Redemption",
+    "genre": "Action, Thriller, Crime",
+    "year": 2011,
+    "rating": 7.6,
+    "image": "assets/posters/The Raid -  Redemption.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Spider-Man",
+    "genre": "Action, Sci-Fi, Superhero",
+    "year": 2002,
+    "rating": 7.4,
+    "image": "assets/posters/The spiderman.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "The Walking Dead",
+    "genre": "Horror, Drama, Survival",
+    "year": 2010,
+    "rating": 8.1,
+    "image": "assets/posters/The Walking Dead.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Tougen Anki",
+    "genre": "Anime, Action, Supernatural",
+    "year": 2025,
+    "rating": 7.0,
+    "image": "assets/posters/Tiugen Anki.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Tokyo Revengers",
+    "genre": "Anime, Action, Drama",
+    "year": 2021,
+    "rating": 7.8,
+    "image": "assets/posters/Tokyo Revengers.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Top Gun: Maverick",
+    "genre": "Action, Drama",
+    "year": 2022,
+    "rating": 8.2,
+    "image": "assets/posters/Top Gun-Maverick.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Venom",
+    "genre": "Action, Sci-Fi, Superhero",
+    "year": 2018,
+    "rating": 6.6,
+    "image": "assets/posters/venom.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Vinland Saga",
+    "genre": "Anime, Action, Historical",
+    "year": 2019,
+    "rating": 8.8,
+    "image": "assets/posters/Vinland Saga.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "Wind Breaker",
+    "genre": "Anime, Action, School",
+    "year": 2024,
+    "rating": 7.5,
+    "image": "assets/posters/Wind Breaker.jpg",
+    "type": "tv"
+  },
+  {
+    "title": "World War Z",
+    "genre": "Action, Horror, Thriller",
+    "year": 2013,
+    "rating": 7.0,
+    "image": "assets/posters/World War Z.jpg",
+    "type": "movie"
+  },
+  {
+    "title": "Yu-Gi-Oh! Duel Monsters",
+    "genre": "Anime, Adventure, Fantasy",
+    "year": 2000,
+    "rating": 7.3,
+    "image": "assets/posters/YU-GI-OH.jpg",
+    "type": "tv"
+  }
+]

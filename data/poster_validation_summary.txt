@@ -1,0 +1,17 @@
+Image files scanned: 120
+Readable image files: 120
+Exact duplicate groups: 0
+Files involved in exact duplicates: 0
+Files needing aspect-ratio visual review: 0
+Unreadable/invalid files: 0
+
+EXACT DUPLICATES (same file content):
+None detected.
+
+FILES NEEDING VISUAL ASPECT-RATIO REVIEW (not automatically invalid):
+None detected.
+
+UNREADABLE FILES:
+None detected.
+
+Important: this scan verifies file integrity, dimensions, and exact binary duplicates only. It cannot prove that a poster matches the movie/show title; that requires visual review. No poster files were modified or deleted.

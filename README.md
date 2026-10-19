@@ -97,7 +97,7 @@ Explore the interface through actual screenshots captured from the running appli
 
 |                 Home                 |                   Discover                   |
 | :----------------------------------: | :------------------------------------------: |
-| ![Home Screen](screenshots\home.jpg) | ![Discover Screen](screenshots/discover.jpg) |
+| ![Home Screen](screenshots/home.jpg) | ![Discover Screen](screenshots/discover.jpg) |
 
 |               Content Details              |                   My List                  |
 | :----------------------------------------: | :----------------------------------------: |

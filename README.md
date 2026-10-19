@@ -49,7 +49,6 @@ Experience the interface, explore the library, and see how the application works
 * [Getting Started](#-getting-started)
 * [Roadmap](#-roadmap)
 * [Project Status](#-project-status)
-* [Author](#-author)
 
 ---
 
